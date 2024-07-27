@@ -1,0 +1,1 @@
+The codes uploaded here are part of the requirement for my CSC500 Principles of Programming course. In each week, I will be uploading my program based on the specific task assigned to us. The name of code will correspond to the week and tasked provided.
